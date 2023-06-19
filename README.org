@@ -1,0 +1,9 @@
+* cl-html-diff
+
+A Common Lisp library for generating a human-readable diff of two HTML documents.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/wiseman/cl-html-diff.git |
+| commit  | 5a0b39d                                         |
+| systems | cl-html-diff                                    |
+|---------+-------------------------------------------------|
